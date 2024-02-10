@@ -23,7 +23,6 @@ import java.security.Principal;
 import java.util.Collection;
 import java.util.List;
 
-
 @RestController
 @RequestMapping("/api/admin")
 public class RestAdminController {
